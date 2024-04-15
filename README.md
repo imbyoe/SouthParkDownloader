@@ -6,7 +6,7 @@ Downloads whole seasons of South Park from southparkstudios.com
 - Starts episode in case it pauses which means it's fully automatic
 - Output is .mp4 files with the following name format: South Park SXXEXX - {Episode Title}.mp4
 # Requirements:
-- Updated selenium exe file
+- Selenium .exe file that matches your Chrome version
 - FFMPEG in path
 # Disadvantages:
 - Low bitrate audio(120kbps stereo AAC)
