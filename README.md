@@ -8,6 +8,7 @@ Downloads whole seasons of South Park from southparkstudios.com
 # Requirements:
 - Selenium .exe file that matches your Chrome version
 - FFMPEG in path
+- Following Python libraries: requests, m3u8, selenium
 # Disadvantages:
 - Low bitrate audio(120kbps stereo AAC)
 - Some episodes are unavailable on South Park's own website, so the downloader can't download them.
